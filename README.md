@@ -23,6 +23,6 @@
 - ![Vue](https://img.shields.io/badge/Framework-Vue-green?style=flat-square&logo=vue)
 
 ## Stats
-![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarr021123&layout=compact&hide=css)
+![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarr021123&layout=compact&hide=html.css)
 
 
