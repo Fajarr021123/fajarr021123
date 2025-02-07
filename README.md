@@ -23,7 +23,7 @@
 - ![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?style=flat-square&logo=flutter)
 - ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-blue?style=flat-square&logo=streamlit)
 - ![Vue](https://img.shields.io/badge/Framework-Vue-green?style=flat-square&logo=vue)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ## Stats
 ![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarr021123&layout=compact&hide=css)
 
